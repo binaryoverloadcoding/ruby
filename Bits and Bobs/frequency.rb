@@ -1,3 +1,4 @@
+print "Enter a sentence to analyse: "
 text = gets.chomp
 text.downcase!
 freqs = {}
